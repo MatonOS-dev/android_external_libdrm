@@ -7,14 +7,14 @@ description: "libdrm Direct Rendering Manager library and headers"
 third_party {
   license_type: NOTICE
   last_upgrade_date {
-    year: 2024
-    month: 12
-    day: 4
+    year: 2026
+    month: 5
+    day: 29
   }
   identifier {
     type: "Git"
     value: "https://gitlab.freedesktop.org/mesa/drm.git"
-    version: "38ec7dbd4df3141441afafe5ac62dfc9df36a77e"
-    closest_version: "libdrm-2.4.124"
+    version: "e984d448b8b17aab853369e6c203e53719f46de1"
+    closest_version: "libdrm-2.4.134"
   }
 }
